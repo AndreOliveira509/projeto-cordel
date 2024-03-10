@@ -3,6 +3,7 @@
         padding: 0px;
         font-size: 1em;
     }
+    
     header{
         background-color: black;
         height: auto;
@@ -42,6 +43,8 @@
         font-family: "Sriracha", cursive;
         font-weight: 400;
         font-style: normal;
+        font-size: 2em;
+        
     }
     #girassol{
         display: flex;
@@ -51,13 +54,13 @@
         background: black url("imagens/background001.jpg") center center/cover fixed;
     }
     #girassol p { 
-        max-height: 500px;
+        
         margin-left: 30px;
-
+        font-size: 2em;
         font-family: "Sriracha", cursive;
         font-weight: 400;
         font-style: normal;
-        width: 300px;
+        width: 400px;
         background-color: rgba(0, 0, 0, 0.374);
         color: white;
     }
@@ -69,14 +72,14 @@
         background: black url("imagens/background002.jpg") center center/cover fixed;
     }
     #livro p{ 
-        max-height: 500px;
         margin-left: 30px;
         font-family: "Sriracha", cursive;
         font-weight: 400;
         font-style: normal;
-        width: 300px;
+        width: 400px;
         background-color: rgba(0, 0, 0, 0.374);
         color: white;
+        font-size: 2em;
     }
     footer{
         background-color: black;
